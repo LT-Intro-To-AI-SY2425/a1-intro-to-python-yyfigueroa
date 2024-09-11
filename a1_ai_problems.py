@@ -17,3 +17,13 @@ assert fizbuzz(5) == "Buzz", "fizzbuzz 5 test"
 assert fizbuzz(6) == "Fizz", "fizzbuzz 6 test"
 assert fizbuzz(15) == "FizzBuzz", "fizzbuzz 15 test"
 
+
+print("hello world")
+separator = " - "
+string_list = ["apple", "banana", "cherry", "date"]
+
+result = separator.join(string_list)
+print(result)
+
+
+
