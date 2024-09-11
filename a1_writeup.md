@@ -14,10 +14,11 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+Something I noticed about python is that it's somewhat similar to JavaScript. It does look a bit hard. 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+Some similarities were the way you have to use "print" to let the program run. There were so many specific things that were similar to JavaScript. A difference is how Python has more charaters/variables to program than JavaScript. 
 
 3. What are some things that you learned through this assignment?
+Some things I learned through this assignment was how this programming language is structured. 
