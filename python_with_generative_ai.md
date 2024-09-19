@@ -17,6 +17,7 @@ Absolutely! Here's a set of beginner-intermediate level programming challenges i
 **1. Palindrome Checker:**
 Write a program that checks if a given string is a palindrome (reads the same forwards and backwards).
 
+
 **2. FizzBuzz:**
 Write a program that prints numbers from 1 to 100. For multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz". For numbers that are multiples of both 3 and 5, print "FizzBuzz".
 
