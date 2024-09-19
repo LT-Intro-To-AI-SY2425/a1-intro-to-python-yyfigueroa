@@ -153,7 +153,7 @@ def duck_duck_goose(lst: List[str]) -> List[str]:
             current = "duck1"
 
         if i == len(lst): i = 0 
-    return 
+     
 
 
 # this line causes the nested code to be skipped if the file is imported instead of run
