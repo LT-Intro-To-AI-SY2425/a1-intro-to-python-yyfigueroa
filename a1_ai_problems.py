@@ -17,8 +17,10 @@ assert fizbuzz(5) == "Buzz", "fizzbuzz 5 test"
 assert fizbuzz(6) == "Fizz", "fizzbuzz 6 test"
 assert fizbuzz(15) == "FizzBuzz", "fizzbuzz 15 test"
 
+#first problem
 
 print("hello world")
+
 separator = " - "
 string_list = ["apple", "banana", "cherry", "date"]
 
@@ -29,11 +31,6 @@ print(result)
 my_list = [1, 2, 3, "apple", "banana", 3.14]
 print(my_list)  
 
-def guessthe_number():
-    guess = 0 
-    numbrtoguess = (1,100)
-
-while= numbrtoguess
 
 def guess_the_number():
     number_to_guess = random.randint(1, 100)
@@ -54,5 +51,15 @@ def guess_the_number():
 
 if __name__ == "__main__":
     guess_the_number()
+
+
+
+def sum_list(numbers):
+    return sum(numbers)
+
+my_list = [1, 2, 3, 4, 5]
+print("Sum:", sum_list(my_list))
+
+
 
 
